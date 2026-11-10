@@ -1,0 +1,6 @@
+{
+  "name": "Pasapalabra Arm-Esp",
+  "description": "Իսպաներեն-հայերեն Պասապալաբրա բառախաղ՝ 30 րոպեանոց ժամաչափով և ինտերակտիվ թարգմանությամբ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
